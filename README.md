@@ -33,7 +33,7 @@ The KCS is about learning more about computer science. The KCS enacts 3 major ty
 
 🤩 EVERYBODY 🤩
 
-The KCS is for people who are intrested in computer science (or not 🤷‍♂️). The KCS accepts people of all skill levels with varying concentrations in computer science. Whether your here a complete newbie or a vetran everyoen is accepted.
+The KCS is for people who are intrested in computer science (or not 🤷‍♂️). The KCS accepts people of all skill levels with varying concentrations in computer science. Whether your here a complete newbie or a vetran everyoen is accepted. Contributions can be of any type & size. From graphics & design to documentation & code.
 
 ## Fundamentals
 
