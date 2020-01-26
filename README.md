@@ -1,6 +1,6 @@
 # King's Computer Science
 
-Welcome! This exists as an introduction to the King's Computer Science (KCS). As a disclaimer we are not affiliated with the lesser known King's Science Society (KSS) 🤮. This document is to summarize organization fundamentals and processes. Proceed with dilligence...
+Welcome! This exists as an introduction to the King's Computer Science (KCS). The following document will summarize organization fundamentals and processes at KCS. As a disclaimer we are not affiliated with the lesser known King's Science Society (KSS) 🤮. Proceed with dilligence...
 
 **Compass**
 - [King's Computer Science](#kings-computer-science)
