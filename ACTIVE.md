@@ -28,9 +28,9 @@
 
 ### Project Leads
 
-|[Ecosphere Sentinel](#ecosphere-sentinel)
+|[Ecosphere Sentinel](#ecosphere-sentinel)|-|-|
 |-|-|-|
-|Elias Mawa|
+|Elias Mawa|-|-|
 
 ### Active
 
