@@ -11,8 +11,10 @@ Welcome! This exists as an introduction to the King's Computer Science (KCS). As
 	- [Fundamentals](#fundamentals)
 		- [Meetings](#meetings)
 	- [Blast Off!](#blast-off)
+		- [Working on a project](#working-on-a-project)
 		- [Incumbent Officers](#incumbent-officers)
 		- [Active Projects](#active-projects)
+		- [Links](#links)
 
 ## About
 
@@ -43,6 +45,14 @@ The KCS is for people who are intrested in computer science (or not 🤷‍♂�
 
 ## Blast Off!
 
+### Working on a project
+
+All KCS projects are hosted on the git organization.
+
+**contributing** - Before contributing to a project/repo check the README.md and CONTRIBUTING.md. You'll find project/repo specific etiquette & documentation. You can also message an project lead or an administrator on the discord [here](https://discord.gg/bpyCxnR).
+
+**leading** - If you are starting a project ask an admin on the [discord](https://discord.gg/bpyCxnR) to become a maintainer & project lead. You can then copy the [template project](https://github.com/TKUCSC/club-template).
+
 ### Incumbent Officers
 
 To see all incumbent officers see [here](ACTIVE.md#officers).
@@ -50,3 +60,10 @@ To see all incumbent officers see [here](ACTIVE.md#officers).
 ### Active Projects
 
 To see all active projects see [here](ACTIVE.md#projects).
+
+### Links
+
+- **Discord Server** - [here](https://github.com/TKUCSC/club-template)
+- **Club Assets** - [here](https://github.com/TKUCSC/club-assets)
+- **Club Documents** - [here](https://github.com/TKUCSC/club-documents)
+- **Club Charter** - [here](https://github.com/TKUCSC/charter)
