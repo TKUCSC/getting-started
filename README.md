@@ -20,7 +20,7 @@ Welcome! This exists as an introduction to the King's Computer Science (KCS). Th
 
 ### What's the KCS?
 
-The KCS is a club based in The King's University of Edmonton. The KCS strives to foster commuinty and knowledge through computer science at The King's University. Through a Christian ethos we strive to develop each member and each peer at large.
+The KCS is a club based in The King's University of Edmonton. Are hope is to foster commuinty and learning through computer science at The King's University. Through a Christian ethos we pledge to develop each member and each peer to be the bast they can strive to be.
 
 ### What does the KCS do?
 
